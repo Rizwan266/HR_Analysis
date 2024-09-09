@@ -7,7 +7,7 @@ Attrition Analysis: Analyze attrition rates and identify trends to help reduce e
 Data Visualization: Interactive charts and graphs to help visualize complex data.
 Customizable: The dashboard can be customized to fit specific organizational needs.
 Installation
-Clone the repository: git clone https://github.com/
+Clone the repository: git clone (https://github.com/Rizwan266/HR_Analysis)
 Open the Power BI file (.pbix) in Microsoft Power BI Desktop.
 Connect to your data sources and refresh the data.
 Usage
